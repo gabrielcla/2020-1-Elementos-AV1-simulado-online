@@ -5,7 +5,7 @@
 Simulado da avaliação 1 de Elementos. 
 
 ```diff
-+ Versào online e reduzida!
++ Versào simplificada!
 ```
 
 - **Trabalhar sozinho**
@@ -20,7 +20,7 @@ Você deve:
 1. editar o arquivo `ALUNO.json`
 1. não esqueça de dar `commit` e `push`
 
-> Todas as questões possuem testes. Vocês devem editar o arquivo `tests/config.txt` para inserir o módulo no teste. A simulação e o teste deve ser executada pelo comando `./testeAVI.py`
+Todas as questões possuem testes. Vocês devem editar o arquivo `tests/config.txt` para inserir o módulo no teste. A simulação e o teste deve ser executada pelo comando `./testeAVI.py`
 
 # Questões
 
@@ -28,7 +28,7 @@ Esse simulado possui um total de duas questões.
 
 **LEMBRE DE REALIZAR COMMIT A CADA QUESTÃO E PUSH AO FINALIZAR**
 
-## 1 
+### 1 
 
 | Arquivo                |
 | -------                |
@@ -45,13 +45,12 @@ Possui a seguinte equação lógica:
 A.B + C.D + D . E
 ```
 
-### A) Implemente em VHDL a equação e teste.
-### B) Gerer o RTL do circuito e salve na pasta do repositório com o nome `questao1.png`
-
+1. Implemente em VHDL a equação e teste.
+1. Gerer o RTL do circuito e salve na pasta do repositório com o nome `questao1.png`
 
 > Não esqueça de realizar commit!
 
-## 2 (6HW)
+### 2 (6HW)
 
 | Arquivo                | pts  |
 | -------                | ---- |
@@ -62,8 +61,8 @@ Você deve implementar o circuito a seguir em vhdl:
 ![](figs/1a.png)
 ![](figs/1b.png)
 
-> Não esqueça de realizar commit!
 
+> Não esqueça de realizar commit!
 > Não esqueça de realizar push!
 
 
