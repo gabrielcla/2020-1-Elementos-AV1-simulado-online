@@ -5,7 +5,7 @@
 Simulado da avaliação 1 de Elementos. 
 
 ```diff
-+ Versào online e reduzida!
++ Versào simplificada!
 ```
 
 - **Trabalhar sozinho**
