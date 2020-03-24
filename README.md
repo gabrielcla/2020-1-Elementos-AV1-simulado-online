@@ -19,9 +19,12 @@ Você deve:
 1. clonar o seu fork (e trabalhar nele)
 1. não esqueça de dar `commit` e `push`
 
-> Todas as questões possuem testes. Vocês devem editar o arquivo `tests/config.txt` para inserir o módulo no teste. A simulação e o teste deve ser executada pelo comando `./testeAVI.py`
+Todas as questões possuem testes. Vocês devem editar o arquivo `tests/config.txt` para inserir o módulo no teste. A simulação e o teste deve ser executada pelo comando `./testeAVI.py`
 
-## 1 
+---------------
+
+
+### 1 
 
 | Arquivo                |
 | -------                |
@@ -38,10 +41,9 @@ Possui a seguinte equação lógica:
 A.B + C.D + D . E
 ```
 
----------------
 1. Implemente em VHDL a equação e teste.
 1. Gerer o RTL do circuito e salve na pasta do repositório com o nome `questao1.png`
----------------
+
 
 > Não esqueça de realizar commit!
 
@@ -55,12 +57,9 @@ Você deve implementar o circuito a seguir em vhdl:
 
 ![](figs/questao2.png)
 
----------------
-- Implemente em VHDL
----------------
+
 
 > Não esqueça de realizar commit!
-
 > Não esqueça de realizar push!
 
 
