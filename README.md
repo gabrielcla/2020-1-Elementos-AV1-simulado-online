@@ -38,9 +38,10 @@ Possui a seguinte equação lógica:
 A.B + C.D + D . E
 ```
 
-### A) Implemente em VHDL a equação e teste.
-### B) Gerer o RTL do circuito e salve na pasta do repositório com o nome `questao1.png`
-
+---------------
+1. Implemente em VHDL a equação e teste.
+1. Gerer o RTL do circuito e salve na pasta do repositório com o nome `questao1.png`
+---------------
 
 > Não esqueça de realizar commit!
 
@@ -53,6 +54,10 @@ A.B + C.D + D . E
 Você deve implementar o circuito a seguir em vhdl:
 
 ![](figs/questao2.png)
+
+---------------
+- Implemente em VHDL
+---------------
 
 > Não esqueça de realizar commit!
 
