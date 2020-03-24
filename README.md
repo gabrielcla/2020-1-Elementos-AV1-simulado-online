@@ -17,9 +17,16 @@ Você deve:
 
 1. realizar um fork desse repositório  
 1. clonar o seu fork (e trabalhar nele)
+1. editar o arquivo `ALUNO.json`
 1. não esqueça de dar `commit` e `push`
 
 > Todas as questões possuem testes. Vocês devem editar o arquivo `tests/config.txt` para inserir o módulo no teste. A simulação e o teste deve ser executada pelo comando `./testeAVI.py`
+
+# Questões
+
+Esse simulado possui um total de duas questões.
+
+**LEMBRE DE REALIZAR COMMIT A CADA QUESTÃO E PUSH AO FINALIZAR**
 
 ## 1 
 
@@ -44,15 +51,16 @@ A.B + C.D + D . E
 
 > Não esqueça de realizar commit!
 
-## 2
+## 2 (6HW)
 
-| Arquivo                |
-| -------                |
-| `src/rtl/questao2.vhd` |
+| Arquivo                | pts  |
+| -------                | ---- |
+| `src/rtl/questao2.vhd` | 6 HW |
 
 Você deve implementar o circuito a seguir em vhdl:
 
-![](figs/questao2.png)
+![](figs/1a.png)
+![](figs/1b.png)
 
 > Não esqueça de realizar commit!
 
