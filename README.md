@@ -58,9 +58,7 @@ A.B + C.D + D . E
 
 Você deve implementar o circuito a seguir em vhdl:
 
-![](figs/1a.png)
-![](figs/1b.png)
-
+![](figs/questao2.png)
 
 > Não esqueça de realizar commit!
 > Não esqueça de realizar push!
