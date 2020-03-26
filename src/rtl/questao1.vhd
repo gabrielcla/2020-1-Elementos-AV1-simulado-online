@@ -20,4 +20,6 @@ architecture  rtl OF questao1 IS
 
 begin
 
+  f <= (a and b) or (c and d) or (not(d) and not(e));
+
 end architecture;

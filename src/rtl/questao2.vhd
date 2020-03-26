@@ -21,4 +21,9 @@ architecture  rtl OF questao2 IS
 
 begin
 
+  b <= not A(3 downto 0) when sel = "00" else
+       A(3 downto 0)     when sel = "01" else
+       "1010"            when sel = "10" else
+       A(7 downto 4);
+
 end architecture;
